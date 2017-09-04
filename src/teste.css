@@ -1,0 +1,13 @@
+#caixa {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid blue;
+    margin: 0;
+    border-radius: 25px;
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+h2:hover{
+  color:red
+}
